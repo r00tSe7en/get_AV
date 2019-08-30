@@ -37,13 +37,11 @@ $json_string = file_get_contents('av.json');
 // JSON字符串转数组
 $data = json_decode($json_string, true);
 // 循环遍历
-$flag = 0;
 foreach($data as $local_process=>$process_to_soft)
 {
 	foreach($get_array_process as $check_process){
 		if (preg_match("~".$local_process."~",$check_process)){
 			echo "<tr><td>".$local_process."</td>"."<td>".$process_to_soft."</td></tr>";
-			$flag = 1;
 		}
 	}
 }
