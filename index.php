@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Windows在线杀软对比</title>
+<title>Windows杀软在线对比辅助</title>
 <link rel="shortcut icon" href="favicon.ico">
 <link href="https://cdn.bootcss.com/amazeui/2.2.1/css/amazeui.min.css" rel="stylesheet">
 </head>
@@ -9,7 +9,7 @@
 <body>
 <header class="am-topbar">
   <h1 class="am-topbar-brand">
-    <a>Windows在线杀软对比</a>
+    <a>Windows杀软在线对比辅助</a>
   </h1>
   <div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
     <ul class="am-nav am-nav-pills am-topbar-nav">
