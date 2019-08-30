@@ -15,7 +15,8 @@
     <ul class="am-nav am-nav-pills am-topbar-nav">
       <li class="am-active"><a>首页</a></li>
       <li><a href="https://bugs.hacking8.com/tiquan/">提权</a></li>
-	  <li><a href="https://www.se7ensec.cn/">博客</a></li>
+      <li><a href="https://www.se7ensec.cn/">博客</a></li>
+      <li><a href="https://github.com/r00tSe7en/get_AV">GitHub</a></li>
     </ul>
   </div>
 </header>
