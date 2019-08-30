@@ -9,4 +9,4 @@
 灵感来源：[Windows Exp在线对比辅助](https://bugs.hacking8.com/tiquan/)
 ui框架：[Amazeui](https://amazeui.clouddeep.cn/)
 
-在线版：http://getav.se7ensec.cn
+在线版：http://get-av.se7ensec.cn
