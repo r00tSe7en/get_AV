@@ -42,7 +42,7 @@ if(isset($_POST["input_process"])){
 	foreach($data as $local_process=>$process_to_soft)
 	{
 		foreach($get_array_process as $check_process){
-			if (preg_match("/($local_process)/i",$check_process)){
+			if (preg_match("/^($local_process)/i",$check_process)){
 				echo "<tr><td>".$local_process."</td>"."<td>".$process_to_soft."</td></tr>";
 				$flag=1;
 				break;
