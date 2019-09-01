@@ -12,7 +12,7 @@ UI框架：[Amazeui](https://amazeui.clouddeep.cn/)
 
 在线版：http://get-av.se7ensec.cn
 
-完善数据 + 修复已知bug + 修改匹配正则(无视进程字母大小写) - 2019.09.01
+完善数据 + 修复已知bug + 修改匹配正则 - 2019.09.01
 
 ### 特别感谢：
 
