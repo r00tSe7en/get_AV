@@ -12,8 +12,12 @@ UI框架：[Amazeui](https://amazeui.clouddeep.cn/)
 
 在线版：http://get-av.se7ensec.cn
 
-完善数据+修复已知bug - 2019.09.01
+完善数据 + 修复已知bug + 修改匹配正则(无视进程字母大小写) - 2019.09.01
 
 ### 特别感谢：
 
 [LangZi](https://github.com/LangziFun)
+
+### 杀软数据补充
+
+[NS-Sp4ce](https://github.com/NS-Sp4ce) - 2019.09.01
