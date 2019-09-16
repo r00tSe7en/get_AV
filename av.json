@@ -111,5 +111,6 @@
     "WEBSCANX.EXE": "网络病毒克星", 
     "SPHINX.EXE": "SPHINX防火墙", 
     "bddownloader.exe": "百度卫士", 
-    "baiduansvx.exe": "百度卫士-主进程"
+    "baiduansvx.exe": "百度卫士-主进程", 
+    "AvastUI.exe": "Avast!5主程序"
 }
