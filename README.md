@@ -21,3 +21,5 @@ UI框架：[Amazeui](https://amazeui.clouddeep.cn/)
 ### 杀软数据补充：
 
 [NS-Sp4ce](https://github.com/NS-Sp4ce) - 2019.09.01
+
+[i-liberty](https://github.com/i-liberty) - 2019.12.13
